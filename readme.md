@@ -20,7 +20,7 @@ This is a simple real-time chat application using Spring Boot, WebSocket, and ST
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repository/chat-app.git
+   git clone https://github.com/temitopeAdeyemo/ChatSocket.git
    cd chat-app
 
 2. Build the application:
